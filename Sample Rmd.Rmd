@@ -1,0 +1,8 @@
+---
+title: "Creating example Rmd in Github"
+author: "Caitlin Schindler"
+date: "2024-10-15"
+output: html_document
+---
+
+## Here is a sample Rmd file.
